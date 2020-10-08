@@ -12,7 +12,7 @@ To make this event more interesting we'll also give a free 2 hour mentoring from
 ---
 # Event Schedule
 
-## Welcoming
+## Welcoming & About the Hacktoberfest
 
 Welcome the participant and wait for the participant to crowd
 
@@ -32,13 +32,15 @@ Breakout session where participant divided into three groups (assuming 30 people
 |Time|19.00 - 19.15|
 |by|[@empeje][EMPEJE], [@mima2][MIMA]|
 
-## Introduce Hacktoberfest & Open Source
+## Open Source Experience
+
+We will have lightning talk from the famous Open Source contribute himself about his Open Source experience.
 
 |||
 |-|-|
 |Duration|15 mins|
 |Time|19.15 - 19.30|
-|by|[@empeje][EMPEJE]|
+|by|[@bxcoded][IMAN]|
 
 ## Workshop Core: Browser Extension
 
@@ -92,3 +94,4 @@ Share collaboration opportunity for Ngecilin App (https://github.com/kulkultech/
 [ARJUNA]: https://github.com/arjunaskykok
 [MIMA]: https://gitlab.com/mima2
 [BOMBOM]: https://gitlab.com/yuliefas
+[IMAN]: https://github.com/bxcodec
