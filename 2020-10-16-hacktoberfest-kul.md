@@ -4,6 +4,8 @@ Kulkul Tech Workshop is a series of online events organized by Kulkul Technology
 
 In this event, we will bring the master itself [Arjuna Sky Kok][ARJUNA] the author of Hands-On Blockchain for Python Developers and also the Founder of [PredictSalary](https://predictsalary.com/) who will encourage our audience in the Browser Extension Development. As a complement, we from Kulkul will also launch our Open Source software that opens for Hacktoberfest contribution. So don't wait, let's join our event today by RSVP-ing on our meetup page.
 
+In the spirit of open-source, we also bring an engineer with an amazing talent, [Iman Tumorang] [IMAN], Senior Software Engineer in Xendit, who will share his experience contributing to open-source projects and how he maintains several viral open-source projects.
+
 To make this event more interesting we'll also give a free 2 hour mentoring from Mentor in Kulkul for the participants who contribute to our open-source software. So let's join us!
 
 #kulkultech #hacktoberfest #hacktoberfest2020
