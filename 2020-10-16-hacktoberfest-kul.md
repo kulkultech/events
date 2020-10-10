@@ -66,7 +66,7 @@ A Q&A session from speaker and participants.
 
 ## Open for contribution
 
-Share collaboration opportunity for Ngecilin App (https://github.com/kulkultech/ngecilin) a browser extension to shorten URL in the WFH-time.
+Share collaboration opportunity for [Ngecilin App](https://github.com/kulkultech/ngecilin) a browser extension to shorten URL in the WFH-time.
 
 |||
 |-|-|
