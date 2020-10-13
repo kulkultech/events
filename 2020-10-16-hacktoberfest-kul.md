@@ -32,7 +32,7 @@ Breakout session where participant divided into three groups (assuming 30 people
 |-|-|
 |Duration|15 mins|
 |Time|19.00 - 19.15|
-|by|[@empeje][EMPEJE], [@mima2][MIMA]|
+|by|[@empeje][EMPEJE], [@mima2][MIMA], [@huda][HUDA]|
 
 ## Open Source Experience
 
@@ -97,3 +97,4 @@ Share collaboration opportunity for [Ngecilin App](https://github.com/kulkultech
 [MIMA]: https://gitlab.com/mima2
 [BOMBOM]: https://gitlab.com/yuliefas
 [IMAN]: https://github.com/bxcodec
+[HUDA]: https://www.linkedin.com/in/huda-kurniawan/
