@@ -22,6 +22,7 @@ Breakout meet room 2 : https://meet.google.com/xqr-znfj-cbx
 
 *Fasilitator : Mima*
 
+* Arjuna Sky Kok
 * Heri	Prastio
 * Oliaman	Gea
 * Muhamad Novan Aulia	Zam Zami
