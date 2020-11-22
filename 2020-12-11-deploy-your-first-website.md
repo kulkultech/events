@@ -11,12 +11,11 @@ HTML is the skeleton of every website on the internet and nearly all websites us
 
 While learning to edit HTML elements and CSS properties is an important first step toward making a website, there are more steps to getting a website publicly available on the internet. In this workshop, participants will use a simple deployment tool to get their website live before they leave!
 
-# Requirements / Prerequisites
+## Requirements / Prerequisites
 
 Participants will be required to have a computer that can connect to the Internet and run the following software:
 
-System Requirements:
-
+**System Requirements**:
 * MacOS, Linux, or Windows 8 or higher
 
 This workshop is designed for absolute beginners! There are no prerequisites.
@@ -25,7 +24,7 @@ This workshop is designed for absolute beginners! There are no prerequisites.
 
 # Event Schedule
 
-## Welcoming & About the MLH Localhost & Kulkul.tech
+## Welcoming, About the MLH Localhost & Kulkul.tech
 
 Welcome the participant and wait for the participant to crowd.
 

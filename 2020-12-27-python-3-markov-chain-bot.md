@@ -4,9 +4,9 @@
 
 Basic TrAIning is a series of three workshops developed in partnership with Capital One to teach Python skills for Artificial Intelligence use cases.
 
-## Part I: Web Scraping
+## Part III: Use Your Data in a Bot!
 
-In the first workshop in this series, participants will learn how to scrape the web for data using Python. They will scrape Tweets from their favorite celebrity or other public figure’s Twitter. Then, they’ll edit a chat app that responds to messages with Tweets.
+In the third workshop in this series, participants will feed their data into a Markov chain bot. They will compare the quality of responses from data scraped from Twitter (a small data set) to data retrieved using the Twitter API (a larger data set). At the end of the series, participants will have a fully functional, deployed Markov chain bot of the celebrity of their choice!
 
 ## Requirements / Prerequisites
 
