@@ -4,9 +4,9 @@
 
 Basic TrAIning is a series of three workshops developed in partnership with Capital One to teach Python skills for Artificial Intelligence use cases.
 
-## Part I: Web Scraping
+## Part II: Data Cleaning
 
-In the first workshop in this series, participants will learn how to scrape the web for data using Python. They will scrape Tweets from their favorite celebrity or other public figure’s Twitter. Then, they’ll edit a chat app that responds to messages with Tweets.
+In the second workshop in this series, participants will use data cleaning techniques to improve the data set they retrieved from Twitter using regular expressions.
 
 ## Requirements / Prerequisites
 
@@ -57,7 +57,7 @@ Breakout session where participant divided into three groups (assuming 30 partic
 
 ## Core Workshop
 
-In this section will dive-in a hands-on workshop based on Capital One's Basic TrAIning Module 1 which covers Web Scrapping.
+In this section will dive-in a hands-on workshop based on Capital One's Basic TrAIning Module 2 which covers Data Cleaning.
 
 <table style="width:100%">
   <tr>
