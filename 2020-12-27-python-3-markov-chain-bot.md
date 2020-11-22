@@ -57,7 +57,7 @@ Breakout session where participant divided into three groups (assuming 30 partic
 
 ## Core Workshop
 
-In this section will dive-in a hands-on workshop based on Capital One's Basic TrAIning Module 1 which covers Web Scrapping.
+In this section will dive-in a hands-on workshop based on Capital One's Basic TrAIning Module 3 which covers Markov Chain Bot.
 
 <table style="width:100%">
   <tr>
